@@ -1,0 +1,86 @@
+.main {
+  width: 317px;
+  height: 399px;
+  background: #1a1b21;
+  padding-top: 21px;
+  color: #fff;
+}
+
+.info {
+  text-align: center;
+}
+
+.info-title {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1px;
+}
+
+.info-subtitle {
+  color: #f3bf99;
+  font-size: 12.8px;
+  font-weight: 400;
+  margin: 6px 0 8px 0;
+}
+
+.info-link {
+  color: #f5f5f5;
+  font-size: 0.65rem;
+  font-weight: 400;
+  line-height: 150%; /* 15.36px */
+}
+
+.info-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  margin-top: 15px;
+}
+
+.info-buttons > a {
+  padding: 9px 13px 9px 11px;
+  width: 115px;
+  border-radius: 6px;
+  /* shadow/sm */
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.email {
+  color: #1e1f26;
+  border: 1px solid #d1d5db;
+  background: #fff;
+}
+
+.linked-in {
+  background: #5093e2;
+}
+
+.about,
+.interests {
+  padding: 0 34px;
+  margin-top: 24px;
+}
+
+.about-title,
+.interests-title {
+  color: #f5f5f5;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 24px */
+}
+
+.about-text,
+.interests-text {
+  color: #dcdcdc;
+  font-size: 10.24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 15.36px */
+}

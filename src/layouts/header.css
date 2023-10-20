@@ -1,0 +1,8 @@
+.header {
+  width: 317px;
+  height: 317px;
+  flex-shrink: 0;
+  background-image: url(../assets/profile-pic.png);
+  background-size: cover;
+  border-radius: 10px 10px 0 0;
+}
